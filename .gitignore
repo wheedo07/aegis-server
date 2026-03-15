@@ -1,6 +1,7 @@
 .classpath
 .project
 .settings
+src/main/resources/static/js
 
 node_modules
 target

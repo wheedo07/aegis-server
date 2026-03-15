@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>kr.ourgram</groupId>
 	<artifactId>aegis</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>aegis</name>
-	<description>Demo project for Spring Boot</description>
+	<description>aegis project</description>
 	<url/>
 	<licenses>
 		<license/>
